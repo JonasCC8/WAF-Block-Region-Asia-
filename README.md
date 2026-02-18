@@ -1,6 +1,6 @@
 # 🌍 AWS WAF – Bloqueo Geográfico de Región Asia
 
-![AWS WAF Geo Block](imagenes/waf-geo-block.png)
+![AWS WAF Geo Block](images/waf-geo-block.png)
 
 ## 📖 Descripción General
 
