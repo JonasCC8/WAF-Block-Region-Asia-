@@ -1,7 +1,5 @@
 # 🌍 AWS WAF – Bloqueo Geográfico de Región Asia
 
-![AWS WAF Geo Block](images/waf-geo-block.png)
-
 ## 📖 Descripción General
 
 Este proyecto demuestra cómo configurar AWS WAF (Web Application Firewall) para bloquear tráfico proveniente del continente Asia utilizando una regla geográfica (Geo Match Rule).
@@ -25,6 +23,8 @@ El objetivo es reducir la superficie de ataque restringiendo tráfico desde regi
 ---
 
 ## 🏗️ Arquitectura
+
+![AWS WAF Geo Block](images/waf-geo-block.png)
 
 Internet Traffic  
 ↓  
